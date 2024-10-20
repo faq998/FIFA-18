@@ -5,6 +5,8 @@ En este repositorio se intentará determinar cuáles son las variables que entra
 
 
 ## Introducción
+![For Loop Image](https://github.com/faq998/Im-genes/blob/main/DALLE2~1.WEB)
+
 Este proyecto tiene como objetivo realizar un proceso de Extracción, Transformación y Carga (ETL) seguido de un Análisis Exploratorio de Datos (EDA). 
 El ETL se encarga de procesar la información cruda, y el EDA permite obtener una comprensión más profunda de los datos mediante la visualización y análisis de patrones clave.
 
