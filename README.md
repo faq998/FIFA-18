@@ -39,7 +39,7 @@ Para llevar a cabo este proyecto, se ha utilizado el siguiente stack tecnológic
 
 
 ### Mejores jugadores por posición
-![For Loop Image](https://github.com/faq998/Im-genes/blob/main/Clubes.png")
+![For Loop Image](https://github.com/faq998/Im-genes/blob/main/Clubes.png)
 
 - La relación entre "Overall"  valor de mercado ("Value") nos permite hacer una comparación de acuerdo a cada una de las posiciones.
 - Esto nos deja ver qué jugadores por posición se centra cada club en adquirir, y determinar si vale o no la pena realizar la inversión.
