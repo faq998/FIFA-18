@@ -27,8 +27,7 @@ Para llevar a cabo este proyecto, se ha utilizado el siguiente stack tecnológic
 
 
 ## Conclusiones respecto a las fuentes de información
-
-<img src="[https://github.com/faq998/Im-genes/blob/main/Regresi%C3%B3n%20Habilidades%20vs%20Valor%20de%20Mercado.png]" alt="Regresión de habilidades vs Valor de Mercado" width="400">
+<img src="https://github.com/faq998/Im-genes/blob/main/Regresi%C3%B3n%20Habilidades%20vs%20Valor%20de%20Mercado.png" alt="Ejemplo de imagen" width="500">
 
 - Se observa que las habilidades cuyo incremento generan un mayor incremento en la valoración que el mercado realiza de los jugadores (pendiente de las rectas) son el regate, la finalización y el poder de remate. Estas habilidades tienen en común que generalmente se asocian a jugadores ofensivos.
 - En un segundo grupo se observan la agilidad, la velocidad y la capacidad de intercepción.
