@@ -37,7 +37,9 @@ Para llevar a cabo este proyecto, se ha utilizado el siguiente stack tecnológic
 <img src="https://github.com/faq998/Im-genes/blob/main/Valor%20Mercado%20vs%20Overall.png" alt="Mejor inversión por jugador" width="500">
 - Neymar demuestra tener una mejor relacion Value/Overall, lo cual determina que para realizar una inversión en jugadores, él sería la mejor y no Cristiano Ronaldo (según FIFA). 
 
-<img src="https://github.com/faq998/Im-genes/blob/main/Clubes.png" alt="Mejores jugadores por posición" width="500">
+
+### Mejores jugadores por posición
+![For Loop Image](https://github.com/faq998/Im-genes/blob/main/Clubes.png")
 
 - La relación entre "Overall"  valor de mercado ("Value") nos permite hacer una comparación de acuerdo a cada una de las posiciones.
 - Esto nos deja ver qué jugadores por posición se centra cada club en adquirir, y determinar si vale o no la pena realizar la inversión.
