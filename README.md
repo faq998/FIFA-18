@@ -33,7 +33,23 @@ Para llevar a cabo este proyecto, se ha utilizado el siguiente stack tecnológic
 - En un segundo grupo se observan la agilidad, la velocidad y la capacidad de intercepción.
 - En un tercer grupo, como habilidad menos valorada se observa la capacidad de marca, ligada fundamentalmente a jugadores defensivos.
 - Se conlcuye entonces que los jugadores mejores valorados en términos económicos por el mercado, son aquellos que destacan en habilidades ofensivas, como son delanteros y mediocampistas de ataque. En contrapartida, los defensores o mediocampistas asociados a habilidades defensivas, son menos valorados económicamente por el mercado.
+  
+<img src="https://github.com/faq998/Im-genes/blob/main/Valor%20Mercado%20vs%20Overall.png" alt="Mejor inversión por jugador" width="500">
+- Neymar demuestra tener una mejor relacion Value/Overall, lo cual determina que para realizar una inversión en jugadores, él sería la mejor y no Cristiano Ronaldo (según FIFA). 
 
+<img src="https://github.com/faq998/Im-genes/blob/main/Clubes.png" alt="Mejores jugadores por posición" width="500">
+
+- La relación entre "Overall"  valor de mercado ("Value") nos permite hacer una comparación de acuerdo a cada una de las posiciones.
+- Esto nos deja ver qué jugadores por posición se centra cada club en adquirir, y determinar si vale o no la pena realizar la inversión.
+- El Real Madrid tiene las mejores inversiones en Defensa y Mediocampo.
+- El Bayern Munich en Arquero y Delantero.
+- Barcelona en Defensa, Mediocampo y Delantera.
+- El Chelsea en Defensa.
+- Paris Saint Germain (Neymar) en Delantera.
+- Atlético Madrid en Defensa con tareas Ofensivas (Carrilero izquierdo).
+- Por último el Manchester City con mejores inversiones en Mediocampo, Delantera y Defensa (Carrilero derecho).
+
+- Finalmente se observa que hay jugadores con un alto nivel en donde pueden jugar en distintas posiciones siendo los mejores y a un valor de mercado subestimado, tales como Luis Suárez y Kevin De Bruyne.
 
 
 ## Conclusiones finales 
