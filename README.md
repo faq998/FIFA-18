@@ -71,13 +71,10 @@ Para llevar a cabo este proyecto, se ha utilizado el siguiente stack tecnológic
 ### Cercano al retiro
 ![For Loop Image](https://github.com/faq998/Im-genes/blob/main/cercano%20al%20retiro.png)
 
-<h5><em>Conclusiones :</em></h5>
-----------------------
+### Conclusiones 
 
 <p>En base a la division anteriormente descripta, se buscó indagar los principales 5 jugadores por cada posición, como asi tambien por potencial según edad.</p>
 <p>La finalidad de la misma fue notar visualmente (empleando gráficos de barras) aquellos jugadores mejor puntuados segun su posición en el campo (como una guía rapida sobre jugadores a fichar según zona de juego, teniendo en cuenta potencial a futuro, condicionado por edad).</p>
-
-
 
 
 ### Arqueros
@@ -85,12 +82,10 @@ Para llevar a cabo este proyecto, se ha utilizado el siguiente stack tecnológic
 
 ![For Loop Image](https://github.com/faq998/Im-genes/blob/main/mejores%20arqueros%20por%20potencial.png)
 
-<h5><em>Conclusiones :</em></h5>
-----------------------
+### Conclusiones 
 
 <p>Por último, el siguiente gráfico de barras muestra los 5 principales jugadores según potencial por edad para la posición de arquero.</p>
 <p>A diferencia de los "barplot" anteriores, a simple vista, podemos notar un aumento en la habilidad de "GK" a medida que aumenta la edad, posiblemente por la adquisición de experiencia a lo largo de los años, y al ser una posición donde las aptitudes físicas no son tan determinantes (en contraposición de la demandante resistencia de las demas zonas del campo).</p>
-----------------------
 
 
 ## Conclusiones finales 
