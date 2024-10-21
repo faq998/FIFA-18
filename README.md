@@ -26,7 +26,15 @@ Para llevar a cabo este proyecto, se ha utilizado el siguiente stack tecnológic
   - `sklearn`: Implementación de algoritmos de aprendizaje automático, como la regresión lineal.
 
 
-## Conclusiones respecto a las fuentes de información
+## Análisis respecto a las fuentes de información
+
+### Comparativa delanteros
+![For Loop Image](https://github.com/faq998/Im-genes/blob/main/Comparativa%20delanteros.png)
+- La gráfica permite concluir cuales son las habilidades fuertes y las no tan fuertes de cada jugador comparándolo con los restantes 4 mejores en su posición.
+- Por ejemplo, Messi destaca respecto a los demás en regate y Ronaldo destaca en poder de remate como puntos favorables.
+- Por otro lado, se pueden ver puntos no tan fuertes de algunos jugadores, como la velocidad de Suarez o el poder de remate de Neymar.
+
+
 ### Regresión de habilidades vs Valor Mercado
 <img src="https://github.com/faq998/Im-genes/blob/main/Regresi%C3%B3n%20Habilidades%20vs%20Valor%20de%20Mercado.png" alt="Regresión de habilidades vs Valor Mercado" width="1000">
 
@@ -71,7 +79,6 @@ Para llevar a cabo este proyecto, se ha utilizado el siguiente stack tecnológic
 ### Cercano al retiro
 ![For Loop Image](https://github.com/faq998/Im-genes/blob/main/cercano%20al%20retiro.png)
 
-### Conclusiones 
 
 <p>En base a la division anteriormente descripta, se buscó indagar los principales 5 jugadores por cada posición, como asi tambien por potencial según edad.</p>
 <p>La finalidad de la misma fue notar visualmente (empleando gráficos de barras) aquellos jugadores mejor puntuados segun su posición en el campo (como una guía rapida sobre jugadores a fichar según zona de juego, teniendo en cuenta potencial a futuro, condicionado por edad).</p>
@@ -82,10 +89,35 @@ Para llevar a cabo este proyecto, se ha utilizado el siguiente stack tecnológic
 
 ![For Loop Image](https://github.com/faq998/Im-genes/blob/main/mejores%20arqueros%20por%20potencial.png)
 
-### Conclusiones 
 
 <p>Por último, el siguiente gráfico de barras muestra los 5 principales jugadores según potencial por edad para la posición de arquero.</p>
 <p>A diferencia de los "barplot" anteriores, a simple vista, podemos notar un aumento en la habilidad de "GK" a medida que aumenta la edad, posiblemente por la adquisición de experiencia a lo largo de los años, y al ser una posición donde las aptitudes físicas no son tan determinantes (en contraposición de la demandante resistencia de las demas zonas del campo).</p>
+
+
+## Conclusiones del Proyecto FIFA 18
+
+### 1. Máximo Valor de Talento por Posición Preferida
+- A partir del análisis de los datos de FIFA 18, se ha observado que ciertos jugadores tienen un valor de talento máximo en sus posiciones preferidas. Esto sugiere una relación clara entre las posiciones de campo y la valorización de los jugadores en el contexto del juego.
+- Los jugadores que destacan por su "Valor de Talento" máximo suelen pertenecer a equipos reconocidos internacionalmente, como Chelsea, París Saint-Germain, Atlético de Madrid y Manchester City. Esto indica que los equipos de élite en el fútbol global tienden a tener jugadores que lideran en talento en sus respectivas posiciones.
+
+### 2. Diferencias por Posiciones
+- **Delantera**: Las posiciones de delanteros (ST, CF) muestran una fuerte presencia de jugadores con valores altos de talento, lo que refleja la importancia de los atacantes en la dinámica del juego. Jugadores como **Luis Suárez** sobresalen en estas posiciones.
+- **Mediocampo**: Los centrocampistas (CM, CAM, CDM) también son jugadores clave, especialmente aquellos que pueden realizar transiciones rápidas entre defensa y ataque. Jugadores como **K. De Bruyne** y **T. Kroos** son ejemplos notables de centrocampistas con un talento excepcional.
+- **Defensa**: Las posiciones defensivas (CB, LB, RB) también presentan jugadores valiosos, aunque con menores diferencias en talento comparado con las posiciones ofensivas. Esto refleja la solidez defensiva de los equipos de primer nivel.
+- **Porteros**: Si bien el número de jugadores destacados en la posición de portero (GK) es menor, su importancia es fundamental para los equipos, y jugadores como **M. Neuer** destacan como los porteros de mayor talento.
+
+### 3. Distribución del Talento entre Clubes
+- Es evidente que el talento está distribuido principalmente entre clubes de renombre internacional. Equipos como el **Paris Saint-Germain** y el **Manchester City** poseen algunos de los jugadores con mayor "Valor de Talento" en sus posiciones, lo que subraya la correlación entre el éxito de un equipo y la calidad de sus jugadores.
+- Jugadores como **L. Messi** en el FC Barcelona o **K. De Bruyne** en el Manchester City destacan por sus contribuciones cruciales, tanto en la vida real como en el juego.
+
+### 4. Importancia del Análisis de Talento
+- Este tipo de análisis puede ser útil no solo para los aficionados del fútbol que juegan FIFA 18, sino también para aquellos interesados en el rendimiento real de los jugadores. El análisis de datos proporciona una visión clara de qué jugadores son clave en determinadas posiciones, así como la importancia que tienen en sus respectivos clubes.
+- En el contexto de FIFA 18, conocer los jugadores con los valores de talento más altos por posición puede ayudar a los jugadores a optimizar sus equipos y estrategias en el juego, aprovechando al máximo a los jugadores que destacan en posiciones clave.
+
+### 5. Observaciones Generales
+- A pesar de que hay muchas estrellas destacadas en el juego, la mayoría de las posiciones parecen tener jugadores sobresalientes que pueden marcar la diferencia en el campo. Esto resalta la importancia de contar con un equipo balanceado que pueda competir en todas las áreas del campo.
+- La relación entre el valor de talento y el rendimiento en el juego refleja la importancia de tener una estrategia clara que maximice el uso de estos jugadores élite en sus posiciones preferidas.
+
 
 
 ## Conclusiones finales 
