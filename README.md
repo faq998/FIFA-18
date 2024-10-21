@@ -36,7 +36,7 @@ Para llevar a cabo este proyecto, se ha utilizado el siguiente stack tecnológic
 - Se conlcuye entonces que los jugadores mejores valorados en términos económicos por el mercado, son aquellos que destacan en habilidades ofensivas, como son delanteros y mediocampistas de ataque. En contrapartida, los defensores o mediocampistas asociados a habilidades defensivas, son menos valorados económicamente por el mercado.
 
 ### Mejor inversión por jugador
-<img src="https://github.com/faq998/Im-genes/blob/main/Valor%20Mercado%20vs%20Overall.png" alt="Mejor inversión por jugador" width="500">
+![For Loop Image](https://github.com/faq998/Im-genes/blob/main/Valor%20Mercado%20vs%20Overall.png)
 - Neymar demuestra tener una mejor relacion Value/Overall, lo cual determina que para realizar una inversión en jugadores, él sería la mejor y no Cristiano Ronaldo (según FIFA). 
 
 
