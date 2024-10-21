@@ -27,13 +27,15 @@ Para llevar a cabo este proyecto, se ha utilizado el siguiente stack tecnológic
 
 
 ## Conclusiones respecto a las fuentes de información
+### Regresión de habilidades vs Valor Mercado
 <img src="https://github.com/faq998/Im-genes/blob/main/Regresi%C3%B3n%20Habilidades%20vs%20Valor%20de%20Mercado.png" alt="Regresión de habilidades vs Valor Mercado" width="500">
 
 - Se observa que las habilidades cuyo incremento generan un mayor incremento en la valoración que el mercado realiza de los jugadores (pendiente de las rectas) son el regate, la finalización y el poder de remate. Estas habilidades tienen en común que generalmente se asocian a jugadores ofensivos.
 - En un segundo grupo se observan la agilidad, la velocidad y la capacidad de intercepción.
 - En un tercer grupo, como habilidad menos valorada se observa la capacidad de marca, ligada fundamentalmente a jugadores defensivos.
 - Se conlcuye entonces que los jugadores mejores valorados en términos económicos por el mercado, son aquellos que destacan en habilidades ofensivas, como son delanteros y mediocampistas de ataque. En contrapartida, los defensores o mediocampistas asociados a habilidades defensivas, son menos valorados económicamente por el mercado.
-  
+
+### Mejor inversión por jugador
 <img src="https://github.com/faq998/Im-genes/blob/main/Valor%20Mercado%20vs%20Overall.png" alt="Mejor inversión por jugador" width="500">
 - Neymar demuestra tener una mejor relacion Value/Overall, lo cual determina que para realizar una inversión en jugadores, él sería la mejor y no Cristiano Ronaldo (según FIFA). 
 
@@ -52,6 +54,14 @@ Para llevar a cabo este proyecto, se ha utilizado el siguiente stack tecnológic
 - Por último el Manchester City con mejores inversiones en Mediocampo, Delantera y Defensa (Carrilero derecho).
 
 - Finalmente se observa que hay jugadores con un alto nivel en donde pueden jugar en distintas posiciones siendo los mejores y a un valor de mercado subestimado, tales como Luis Suárez y Kevin De Bruyne.
+
+### Distribución de jugadores por edad
+![For Loop Image](https://github.com/faq998/Im-genes/blob/main/Potencial%20por%20edad.png)
+
+<p>Referido al potencial de un jugador según su edad, no es lo mismo contar en la plantilla con una "Joven promesa" (con todo el potencial a desarrollar a lo largo de su carrera), con la rentabilidad de un jugador en edad de "Máximo potencial" ni con el valor decreciente de un jugador "Cercano al retiro".</p>
+<p>Para ello, este dataset se dividió segun posición de jugador en el campo de juego (defensa,mediocampo y delantero) y según potencial por edad (mencionados anteriormente).</p>
+<p>Como principal hallazgo, se encontro una frecuencia relativa similar, siendo que la mayoria de los sujetos (en las 3 zonas del campo) correspondían a la categoría "Máximo potencial", y en menor medida aquellos "Cercanos al retiro".</p>
+
 
 
 ## Conclusiones finales 
